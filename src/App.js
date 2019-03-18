@@ -61,7 +61,7 @@ class App extends Component {
       return {
         updateInterval: prevState.updateInterval + increment
       }
-    })
+    }) 
   }
 
 }
